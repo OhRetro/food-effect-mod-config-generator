@@ -1,0 +1,69 @@
+[General]
+eat_cookies_berries_fast = true
+
+[[effects]]
+duration = 120
+item = "croptopia:wine"
+amplifier = 0
+effect = "drinkbeer:drunk"
+
+[[effects]]
+duration = 120
+item = "drinksmod:sweet_berry_wine"
+amplifier = 0
+effect = "drinkbeer:drunk"
+
+[[effects]]
+duration = 120
+item = "drinksmod:honey_mead"
+amplifier = 0
+effect = "drinkbeer:drunk"
+
+[[effects]]
+duration = 120
+item = "italian_delight:sweet_berry_wine"
+amplifier = 0
+effect = "drinkbeer:drunk"
+
+[[effects]]
+duration = 120
+item = "italian_delight:glowberry_wine"
+amplifier = 0
+effect = "drinkbeer:drunk"
+
+[[effects]]
+duration = 120
+item = "italian_delight:rosewine"
+amplifier = 0
+effect = "drinkbeer:drunk"
+
+[[effects]]
+duration = 120
+item = "italian_delight:hasting_potion"
+amplifier = 0
+effect = "drinkbeer:drunk"
+
+[[effects]]
+duration = 120
+item = "italian_delight:hellhound_wine"
+amplifier = 0
+effect = "drinkbeer:drunk"
+
+[[effects]]
+duration = 120
+item = "italian_delight:dragonborn_wine"
+amplifier = 0
+effect = "drinkbeer:drunk"
+
+[[effects]]
+duration = 120
+item = "italian_delight:prewine_substance"
+amplifier = 0
+effect = "drinkbeer:drunk"
+
+[[effects]]
+duration = 120
+item = "pamhc2foodextended:pinacoladaitem"
+amplifier = 0
+effect = "drinkbeer:drunk"
+

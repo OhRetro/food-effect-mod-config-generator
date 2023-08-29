@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+	"croptopia:wine",
+	"drinksmod:sweet_berry_wine",
+	"drinksmod:honey_mead",
+	"italian_delight:sweet_berry_wine",
+	"italian_delight:glowberry_wine",
+	"italian_delight:rosewine",
+	"italian_delight:hasting_potion",
+	"italian_delight:hellhound_wine",
+	"italian_delight:dragonborn_wine",
+	"italian_delight:prewine_substance",
+	"pamhc2foodextended:pinacoladaitem",
+	"#vinery:wine",
+	"#forge:wines",
+	"#forge:beers",
+	"#alcocraftplus:beer_mugs",
+	"#drinkbeer:beer"
+  ]
+}
